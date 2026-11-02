@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: Auto Instance Combat Log
+## Notes: Logs dungeons and raids; keeps logging through death and corpse runs.
+## Author: ReneSarjeant
+## Version: 1.0
+
+AutoInstanceCombatLog.lua
